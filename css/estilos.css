@@ -1,0 +1,9 @@
+.banner-principal{
+    background-image: url("../src/img/about-img.jpg");
+}
+.i-social{
+    font-size: 50px;
+}
+.i-social:hover{
+    color: darkgreen;
+}
